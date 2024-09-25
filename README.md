@@ -4,9 +4,13 @@ Terabox Video Player is a web application that allows users to stream Terabox-ho
 
 # Features 🚀
 1 Play Terabox Videos: Simply input a Terabox URL and play the video directly using the embedded API.
+
 2 Responsive Design: Works seamlessly across devices—desktop, tablet, and mobile.
+
 3 Link Extraction: Users can paste entire text, and the app will automatically extract the valid Terabox video link for playback.
+
 4 Interactive UI: Users can easily input a new video URL while watching the current video, with a slideable interface.
+
 5 Quick Access: Clickable Bot logo to navigate to the Terabox bot for downloading videos.
 
 # Preview 🎬
@@ -14,14 +18,16 @@ You can check out the live demo at [Terabox Player.](https://itz-ashlynn.github.
 
 # How to Use 🛠️
 1 Enter the Terabox video URL (or any text containing the URL) into the input field.
+
 2 Click on the Play Video button.
+
 3 The video will be displayed in the player embedded directly from the API.
+
 4 You can enter another link at any time to load a new video.
 
 # Installation 📦
 To run this project locally, follow these steps:
 1 Clone the repository:
-git clone https://github.com/your-username/terabox-video-player.git
 ```git
 git clone https://github.com/Itz-Ashlynn/watch-terabox.git
 ```
@@ -53,4 +59,5 @@ This project is licensed under the [MIT License](https://github.com/Itz-Ashlynn/
 
 # Contact & Support 📧
 Developer: [Ashlynn Repository](https://t.me/Ashlynn_Repository)
+
 Terabox Bot: [Direct Terabox Video Download Bot](https://t.me/Direct_Terabox_Video_DownBot)
