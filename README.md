@@ -37,12 +37,10 @@ git clone https://github.com/Itz-Ashlynn/watch-terabox.git
     ```
 # Project Structure 🗂️
     ```bash
-    watch-terabox/
-│
-├── index.html        # Main HTML file
-├── README.md         # Project's README file (You're reading it now!)
-└── favicon.ico       # Favicon for the site 
-```
+     watch-terabox
+    ├── index.html        # Main HTML file
+    ├── README.md         # Project's README file (You're reading it now!)
+    └── favicon.ico       # Favicon for the site ```
 
 # Dependencies 📚
 No external dependencies are required. This project is built with vanilla HTML, CSS, and JavaScript.
