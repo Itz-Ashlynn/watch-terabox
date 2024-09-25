@@ -36,7 +36,7 @@ git clone https://github.com/Itz-Ashlynn/watch-terabox.git
     open index.html
     ```
 # Project Structure 🗂️
-    ```bash
+    ```graphql
      watch-terabox
     ├── index.html        # Main HTML file
     ├── README.md         # Project's README file (You're reading it now!)
